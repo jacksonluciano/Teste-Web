@@ -190,7 +190,7 @@ header {
 .estrutura .bt.orange:hover,
 .slider .bt.orange:hover {
   box-shadow: inset -330px 0 0px 0 #26b0bc;
-  color: #ffffff;
+  color: #000000;
 }
 
 .med-tem h2 {
