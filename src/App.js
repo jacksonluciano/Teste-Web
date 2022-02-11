@@ -54,10 +54,10 @@ function App() {
               </div>
               <div className="col-md-2 adjust-right col-sm-4 col-6">
                 <a href="./" className="search-icon">
-                  <img src={searchIcon} alt="" />
+                  <img src={searchIcon} alt="Search Icon" />
                 </a>
                 <a href="./" className="hamburger-icon">
-                  <img src={hamburgerIcon} alt="" />
+                  <img src={hamburgerIcon} alt="Hamburger Icon" />
                 </a>
               </div>
             </div>
@@ -68,7 +68,7 @@ function App() {
           <div className="container pos-relative">
             <div className="row">
               <div className="col-lg-12 align-center">
-                <img className="img-responsive" src={slide} alt="Logo" />
+                <img className="img-responsive" src={slide} alt="Slide" />
               </div>
               <div className="col-lg-12 align-center">
                 <a href="./" className="bt orange">
@@ -89,7 +89,7 @@ function App() {
           <div className="container">
             <div className="row">
               <div className="col-md-6 align-center">
-                <img className="img-responsive" src={aluno} alt="Logo" />
+                <img className="img-responsive" src={aluno} alt="Aluno" />
               </div>
               <div className="col-md-6">
                 <p>
@@ -125,7 +125,7 @@ function App() {
             <div className="row">
               <div className="video-frame align-center">
                 <a href="./">
-                  <img className="img-responsive" src={videoFrame} alt="Logo" />
+                  <img className="img-responsive" src={videoFrame} alt="Video Frame" />
                 </a>
               </div>
             </div>
@@ -145,7 +145,7 @@ function App() {
             <div className="wrapper">
               <div className="row">
                 <div className="col-md-7 align-center">
-                  <img className="img-responsive" src={Frame} alt="Logo" />
+                  <img className="img-responsive" src={Frame} alt="frame" />
                 </div>
                 <div className="col-md-5">
                   <div className="testimonials">
@@ -189,7 +189,7 @@ function App() {
                   </div>
                 </div>
                 <div className="col-md-7 align-center">
-                  <img className="img-responsive" src={Frame2} alt="Logo" />
+                  <img className="img-responsive" src={Frame2} alt="frame2" />
                 </div>
               </div>
             </div>
