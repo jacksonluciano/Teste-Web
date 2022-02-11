@@ -288,6 +288,19 @@ header {
   height: 16px;
 }
 
+/* When the checkbox is checked, add a blue background */
+.form-check-input:checked ~ .form-check-label span {
+  background-color: #2196F3;
+}
+
+.form-check-input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
 .formSubmit {
   width: auto;
   margin: 0 auto;
