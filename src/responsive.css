@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1024px) {
+    .paper-slide .note:nth-child(2n + 1){
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+   .slider{
+       height: auto;
+       padding-bottom: 40px;
+   }
+   .content {
+    position: relative;
+    padding: 60px 0;
+}
+   .content-2 img{margin-bottom: 30px;}
+   .content-2{text-align: center;}
+
+   .prev, .next{display: none;}
+
+   .testimonials{text-align: center;}
+
+   .content-4{padding-top: 0;}
+
+   .estrutura{text-align: center;}
+
+   .estrutura a{margin-bottom: 40px;}
+  }
