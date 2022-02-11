@@ -63,4 +63,8 @@
   .paper-slide .note:nth-child(n + 2) {
     display: none;
   }
+  .testimonials h2,
+  .estrutura h2,
+  .med-tem h2,
+  .matricula h1{font-size: 32px;}
 }
